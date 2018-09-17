@@ -1,5 +1,5 @@
 # *Gianmarco*
-*[ course ] (https://github.com/lozangia000/lozangia000/blob/master/Course%20description.md)
+* [ course description ](https://github.com/lozangia000/lozangia000/blob/master/Course%20description.md)
 
 * [ syllabus ](https://github.com/lozangia000/lozangia000/blob/master/IB-MYP-Syllabus.md)
 
